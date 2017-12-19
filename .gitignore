@@ -102,3 +102,7 @@ ENV/
 
 # Visual Studio Code
 .vscode/
+
+# Flask stuff
+app.db
+migrations/
